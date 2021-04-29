@@ -25,7 +25,8 @@
   },
   "homepage": "https://github.com/vitalikzyzych/rn-datepicker#readme",
   "dependencies": {
-    "moment": "^2.22.0"
+    "moment": "^2.22.0",
+    "@react-native-community/datetimepicker": "^2.6.1"
   },
   "devDependencies": {
     "babel-core": "^6.5.2",
